@@ -220,7 +220,7 @@ end)
 local Info = Instance.new("TextLabel", MainFrame)
 Info.Size = UDim2.new(1, 0, 0, 20)
 Info.Position = UDim2.new(0, 0, 1, -20)
-Info.Text = "RightShift = Hide Menu Only"
+Info.Text = "RightShift = Hide Menu"
 Info.TextColor3 = Color3.new(0.7, 0.7, 0.7)
 Info.BackgroundTransparency = 1
 Info.TextSize = 11
